@@ -13,9 +13,9 @@ Currently, two official plugins are available:
 React-Redux is the official binding library that connects React with Redux. It provides hooks like useSelector, useDispatch, and Provider that allow React components to interact with the Redux store.
 </h2>
 <h3>
-Key Features of React-Redux:
-a. useSelector: Allows React components to read specific slices of the Redux state.
-b. useDispatch: Provides a way for components to dispatch actions to update the Redux state.
-c. Provider: Connects the React component tree to the Redux store, ensuring that all components can access the store.
-d. React-Redux focuses on providing a seamless way to integrate React and Redux together, handling optimizations like preventing unnecessary re-renders of components when state changes.
+Key Features of React-Redux:<br>
+a. useSelector: Allows React components to read specific slices of the Redux state.<br>
+b. useDispatch: Provides a way for components to dispatch actions to update the Redux state.<br>
+c. Provider: Connects the React component tree to the Redux store, ensuring that all components can access the store.<br>
+d. React-Redux focuses on providing a seamless way to integrate React and Redux together, handling optimizations like preventing unnecessary re-renders of components when state changes.<br>
 </h3>
